@@ -1,0 +1,72 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "AI dynamic event description",
+        "eventName": "AI dynamic event name",
+        "linkText": "AI dynamic link text"
+      }
+    },
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism",
+        "title": "Redefining Excellence and Innovation"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Redefining Excellence and Innovation",
+  "subtitle": "Pioneering Solutions That Move Industries Forward with Unmatched Professionalism"
+}
